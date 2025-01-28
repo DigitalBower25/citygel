@@ -1,0 +1,17 @@
+/*.log
+/*.pyc
+.env
+*.pyc
+*.idea
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+__pycache__/*
+*.DS_Store
+*media
+*manage.py
+*CityGel/settings.py
+*myenv
+*venv
+*db.sqlite3
+*db.sqlite4
